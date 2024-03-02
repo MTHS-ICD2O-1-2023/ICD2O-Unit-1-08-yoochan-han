@@ -6,3 +6,10 @@
 function mybtn(){
   alert("HelloWorld");
 }
+
+function cac() {
+  var x = document.getElementById("numinp");
+  for (i=0; i<=x;){
+
+  }
+}
