@@ -6,3 +6,11 @@ body {
   color: black;
   background-color: #22ffa2;
 }
+p {
+  font-size: large;
+}
+img {
+  width: 500px;
+  height: 370px;
+}
+
